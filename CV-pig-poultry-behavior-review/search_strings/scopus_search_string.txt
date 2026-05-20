@@ -1,0 +1,13 @@
+TITLE-ABS-KEY(
+("computer vision" OR "machine vision" OR "image analysis" OR "video analysis"
+OR "deep learning" OR "object detection" OR "image segmentation"
+OR "pose estimation" OR "multi-object tracking" OR "re-identification")
+AND
+(pig OR swine OR sow OR piglet OR poultry OR chicken OR broiler OR "laying hen")
+AND
+(behavior OR behaviour OR activity OR posture OR feeding OR drinking
+OR locomotion OR aggression OR lameness OR welfare)
+)
+AND PUBYEAR > 2001 AND PUBYEAR < 2026
+AND (DOCTYPE(ar) OR DOCTYPE(re) OR DOCTYPE(cp))
+AND LANGUAGE(english)
